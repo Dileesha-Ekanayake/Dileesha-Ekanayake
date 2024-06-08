@@ -1,7 +1,7 @@
 <img align="center" width="1000" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> 
 <h1 align="center">Hi 👋, I'm Dileesha Ekanayake</h1>
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/mypage-2426.appspot.com/o/1674617947228.gif?alt=media&token=5e02fc3e-b7ca-4c61-ad1e-c4a4c0f2c79e">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1723075200&v=beta&t=nkRxQjzc5s2Im5h4zK1rgH47wD9S6Ij9ZT46avMtDug">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileesha-ekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="dileesha-ekanayake" /> </p>
