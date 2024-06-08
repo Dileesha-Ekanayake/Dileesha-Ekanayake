@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> 
+<img align="center" width="1000" height="650" src="https://firebasestorage.googleapis.com/v0/b/mypage-2426.appspot.com/o/Mygit.gif?alt=media&token=d359d89d-76e8-4897-a74d-10c9f8bd4dac"> 
 <h1 align="center">Hi 👋, I'm Dileesha Ekanayake</h1>
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/mypage-2426.appspot.com/o/1674617947228.gif?alt=media&token=5e02fc3e-b7ca-4c61-ad1e-c4a4c0f2c79e">
